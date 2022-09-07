@@ -1,0 +1,165 @@
+E:\C#\Курсач\Magaz\Magaz\bin\Debug\Magaz.exe.config
+E:\C#\Курсач\Magaz\Magaz\bin\Debug\Magaz.exe
+E:\C#\Курсач\Magaz\Magaz\bin\Debug\Magaz.pdb
+E:\C#\Курсач\Magaz\Magaz\obj\Debug\Magaz.csproj.AssemblyReference.cache
+E:\C#\Курсач\Magaz\Magaz\obj\Debug\Magaz.Form1.resources
+E:\C#\Курсач\Magaz\Magaz\obj\Debug\Magaz.Properties.Resources.resources
+E:\C#\Курсач\Magaz\Magaz\obj\Debug\Magaz.csproj.GenerateResource.cache
+E:\C#\Курсач\Magaz\Magaz\obj\Debug\Magaz.csproj.CoreCompileInputs.cache
+E:\C#\Курсач\Magaz\Magaz\obj\Debug\Magaz.exe
+E:\C#\Курсач\Magaz\Magaz\obj\Debug\Magaz.pdb
+E:\C#\Курсач\Magaz\Magaz\obj\Debug\Magaz.Registration.resources
+E:\C#\Курсач\Magaz\Magaz\obj\Debug\Magaz.Form2.resources
+E:\C#\Курсач\Magaz\Magaz\bin\Debug\MySql.Data.dll
+E:\C#\Курсач\Magaz\Magaz\bin\Debug\Google.Protobuf.dll
+E:\C#\Курсач\Magaz\Magaz\bin\Debug\ZstdNet.dll
+E:\C#\Курсач\Magaz\Magaz\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\C#\Курсач\Magaz\Magaz\bin\Debug\BouncyCastle.Crypto.dll
+E:\C#\Курсач\Magaz\Magaz\bin\Debug\Ubiety.Dns.Core.dll
+E:\C#\Курсач\Magaz\Magaz\bin\Debug\System.Memory.dll
+E:\C#\Курсач\Magaz\Magaz\bin\Debug\System.Buffers.dll
+E:\C#\Курсач\Magaz\Magaz\bin\Debug\K4os.Compression.LZ4.dll
+E:\C#\Курсач\Magaz\Magaz\bin\Debug\K4os.Hash.xxHash.dll
+E:\C#\Курсач\Magaz\Magaz\bin\Debug\System.Numerics.Vectors.dll
+E:\C#\Курсач\Magaz\Magaz\bin\Debug\MySql.Data.xml
+E:\C#\Курсач\Magaz\Magaz\obj\Debug\Magaz.Card.resources
+E:\C#\Курсач\Magaz\Magaz\obj\Debug\Magaz.csproj.CopyComplete
+E:\C#\Курсач\Magaz\Magaz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\C#\Курсач\Magaz\Magaz\obj\Debug\Magaz.Edit.resources
+E:\C#\Курсач\Magaz\Magaz\obj\Debug\Magaz.Puzzle.resources
+E:\C#\Курсач\Magaz\Magaz\obj\Debug\Magaz.Adventure.resources
+E:\C#\Курсач\Magaz\Magaz\obj\Debug\Magaz.Cooperative.resources
+E:\C#\Курсач\Magaz\Magaz\obj\Debug\Magaz.Detective.resources
+E:\C#\Курсач\Magaz\Magaz\obj\Debug\Magaz.Economic.resources
+E:\C#\Курсач\Magaz\Magaz\obj\Debug\Magaz.Order.resources
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\bin\Debug\Magaz.exe.config
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\bin\Debug\Magaz.exe
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\bin\Debug\Magaz.pdb
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\bin\Debug\Google.Protobuf.dll
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\bin\Debug\ZstdNet.dll
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\bin\Debug\System.Memory.dll
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\bin\Debug\System.Buffers.dll
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\bin\Debug\MySql.Data.xml
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\obj\Debug\Magaz.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\obj\Debug\Magaz.Adventure.resources
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\obj\Debug\Magaz.Card.resources
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\obj\Debug\Magaz.Cooperative.resources
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\obj\Debug\Magaz.Detective.resources
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\obj\Debug\Magaz.Economic.resources
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\obj\Debug\Magaz.Edit.resources
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\obj\Debug\Magaz.Form1.resources
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\obj\Debug\Magaz.Form2.resources
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\obj\Debug\Magaz.Order.resources
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\obj\Debug\Magaz.Properties.Resources.resources
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\obj\Debug\Magaz.Puzzle.resources
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\obj\Debug\Magaz.Registration.resources
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\obj\Debug\Magaz.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\obj\Debug\Magaz.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\obj\Debug\Magaz.csproj.CopyComplete
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\obj\Debug\Magaz.exe
+C:\Users\Student\Desktop\Курсач\Magaz\Magaz\obj\Debug\Magaz.pdb
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\bin\Debug\Magaz.exe.config
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\bin\Debug\Magaz.exe
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\bin\Debug\Magaz.pdb
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\bin\Debug\Google.Protobuf.dll
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\bin\Debug\ZstdNet.dll
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\bin\Debug\System.Memory.dll
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\bin\Debug\System.Buffers.dll
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\bin\Debug\MySql.Data.xml
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\obj\Debug\Magaz.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Adventure.resources
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Card.resources
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Cooperative.resources
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Detective.resources
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Economic.resources
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Edit.resources
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Form1.resources
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Form2.resources
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Order.resources
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Properties.Resources.resources
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Puzzle.resources
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Registration.resources
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\obj\Debug\Magaz.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\obj\Debug\Magaz.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\obj\Debug\Magaz.csproj.CopyComplete
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\obj\Debug\Magaz.exe
+C:\Users\Student\Desktop\Курсач123\Magaz\Magaz\obj\Debug\Magaz.pdb
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\bin\Debug\Magaz.exe.config
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\bin\Debug\Magaz.exe
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\bin\Debug\Magaz.pdb
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\bin\Debug\Google.Protobuf.dll
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\bin\Debug\ZstdNet.dll
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\bin\Debug\System.Memory.dll
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\bin\Debug\System.Buffers.dll
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\bin\Debug\MySql.Data.xml
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\obj\Debug\Magaz.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Adventure.resources
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Card.resources
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Cooperative.resources
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Detective.resources
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Economic.resources
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Edit.resources
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Form1.resources
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Form2.resources
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Order.resources
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Properties.Resources.resources
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Puzzle.resources
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Registration.resources
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\obj\Debug\Magaz.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\obj\Debug\Magaz.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\obj\Debug\Magaz.csproj.CopyComplete
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\obj\Debug\Magaz.exe
+C:\Users\Student\Desktop\лабы\Курсач123\Magaz\Magaz\obj\Debug\Magaz.pdb
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\bin\Debug\Magaz.exe.config
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\bin\Debug\Magaz.exe
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\bin\Debug\Magaz.pdb
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\bin\Debug\Google.Protobuf.dll
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\bin\Debug\ZstdNet.dll
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\bin\Debug\BouncyCastle.Crypto.dll
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\bin\Debug\Ubiety.Dns.Core.dll
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\bin\Debug\System.Memory.dll
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\bin\Debug\System.Buffers.dll
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\bin\Debug\K4os.Compression.LZ4.dll
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\bin\Debug\K4os.Hash.xxHash.dll
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\bin\Debug\System.Numerics.Vectors.dll
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\bin\Debug\MySql.Data.xml
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\obj\Debug\Magaz.csproj.AssemblyReference.cache
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Adventure.resources
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Card.resources
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Cooperative.resources
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Detective.resources
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Economic.resources
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Edit.resources
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Form1.resources
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Form2.resources
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Order.resources
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Properties.Resources.resources
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Puzzle.resources
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\obj\Debug\Magaz.Registration.resources
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\obj\Debug\Magaz.csproj.GenerateResource.cache
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\obj\Debug\Magaz.csproj.CoreCompileInputs.cache
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\obj\Debug\Magaz.exe
+F:\качь из Инета\Курсач123\Курсач123\Magaz\Magaz\obj\Debug\Magaz.pdb
